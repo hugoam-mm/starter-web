@@ -6,8 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos, es un ejemplo
 
-##Introduction
+## Introduction
 
 Es para un curso de GitHub para MentorMate
 
-##How to contribute
+## How to contribute
